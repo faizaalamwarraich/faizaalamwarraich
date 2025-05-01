@@ -1,5 +1,5 @@
-# 💫 About Me:
-Welcome to my GitHub! I’m a Software Engineering student who loves turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
+# 💫 Hello, I'm Faiza, a software engineering student:
+Loves turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
 
 
 ## 🌐 Socials:
