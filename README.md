@@ -1,5 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-# Hello, I'm Faiza, a software engineering student👋🏻:
+Hello, I'm Faiza, a software engineering student👋🏻:
 Loves turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
 
 
@@ -12,7 +11,7 @@ Loves turning ideas into reality through clean, scalable code.<br>I’m here to 
 ![](https://github-readme-stats.vercel.app/api?username=faizaalamwarraich&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=faizaalamwarraich&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaalamwarraich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faizaalamwarraich&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
