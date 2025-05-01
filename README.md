@@ -1,5 +1,5 @@
 ## Hello, I'm Faiza, a software engineering student👋🏻:
-Loves turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
+I Love turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaalamwarraich) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizaalamwarraich@gmail.com) 
