@@ -1,4 +1,4 @@
-# 💫 Hello, I'm Faiza, a software engineering student:
+# Hello, I'm Faiza, a software engineering student👋🏻:
 Loves turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
 
 
