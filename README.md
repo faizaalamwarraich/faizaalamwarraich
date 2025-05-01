@@ -1,4 +1,4 @@
-![Uploading Online Coding classes for Kids _ ZugZwang Academy.gif…]()
+![Typing GIF][(https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif))
 
 # Hello, I'm Faiza, a software engineering student👋🏻:
 Loves turning ideas into reality through clean, scalable code.<br>I’m here to collaborate, experiment, and grow as a developer.
