@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, I'm Faiza 👋<br><br>Full-Stack Developer | Building AI-integrated web applications | Software Engineer<br><br>I build production-ready web applications.<br>I'm actively expanding into AI agentic development ,combining full-stack engineering with LLM-powered tooling (RAG, autonomous agents, MCP servers)<br>I still watch tom n jerry sometimes.
+# 💫 Hello, I'm Faiza 👋
+<br>Full-Stack Developer | Building AI-integrated web applications | Software Engineer<br><br>I build production-ready web applications.<br>I'm actively expanding into AI agentic development ,combining full-stack engineering with LLM-powered tooling (RAG, autonomous agents, MCP servers)<br>I still watch tom n jerry sometimes.
 
 
 ## 🌐 Socials:
